@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm TOPAN BUANA</h1>
 <h3 align="center">A passionate web developer and blockchain enthusiast from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=topanbuana8&label=Profile%20views&color=0e75b6&style=flat" alt="topanbuana8" /> </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/topanbuana8/count.svg?"  />
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topanbuana8" alt="topanbuana8" /></a> </p>
 
