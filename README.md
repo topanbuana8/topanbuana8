@@ -92,7 +92,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/topanbuana8/topanbuana8/output/snake.svg" alt="Snake animation" />
-
-###
